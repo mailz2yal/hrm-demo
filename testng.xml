@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = " HRM Test Suite">
+<test name = "CommonFunctions">
+<classes>
+<class name ="hrmprojects.UserRoleTestCase">
+</class>
+</classes>
+</test>
+<!--test name = "CommonFunctions User">
+<classes>
+<class name ="hrmprojects.PendingLeaveRequest">
+</class>
+</classes>
+</test>-->
+</suite>
