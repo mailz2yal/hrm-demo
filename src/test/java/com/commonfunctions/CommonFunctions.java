@@ -54,7 +54,7 @@ public class CommonFunctions {
 	@AfterSuite
 	public void tearDown() {
 
-		logger.info("Closing The Driver ");
+	
 		driver.quit();
 	}
 
